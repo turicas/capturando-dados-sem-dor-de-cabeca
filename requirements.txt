@@ -1,0 +1,10 @@
+click
+ipython
+lxml # apt install libxslt-dev libxml2-dev
+openpyxl
+requests
+requests-cache
+rows
+splinter
+xlrd
+xlwt
